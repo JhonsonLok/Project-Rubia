@@ -11,8 +11,7 @@
 * PyUserInput by Python User Input
 * opencv-python by OpenCV
 * cvzone by CVZone
-
-<br>请记得先安装好依赖库再运行脚本
+* 【请记得先安装好依赖库再运行脚本】
 
 # 依赖库安装
 ## 安装要求
